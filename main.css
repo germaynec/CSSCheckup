@@ -1,0 +1,51 @@
+h1 {
+    text-align:center;
+    color: white;
+    border-width:20px;border-style:solid; border-color: white;
+    font-family: sans-serif;
+    background-color: darkblue
+    
+}
+
+h2 {
+    text-align: left;
+    color:rgb(243, 241, 246);
+    border-style:solid; border-color:white;
+    border-width: 20;
+    display: inline;
+}
+
+body {
+    background-image: url(https://hubblesite.org/files/live/sites/hubble/files/home/science/galaxies/_images/STScI-J-v1927a-thumb.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+img  {
+    border-radius: 100px;
+    border:1px solid #ddd;
+    padding: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+iframe {
+    border:1px solid #ddd;
+    padding: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 100px;
+    width:100%
+
+}
+
+.column {
+    position:relative;
+    top:43px;
+
+
+}
